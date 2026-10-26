@@ -1,1 +1,10 @@
-
+{
+    "UserId": "AIDAXLMB4GAW4BZE4OD2U",
+    "Account": "505467908141",
+    "Arn": "arn:aws:iam::505467908141:user/azali.surani"
+}
+{
+    "UserId": "AIDAXLMB4GAW4BZE4OD2U",
+    "Account": "505467908141",
+    "Arn": "arn:aws:iam::505467908141:user/azali.surani"
+}
